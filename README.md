@@ -8,7 +8,9 @@ differencer的素材库
 原理：将github上的资源转为快速访问网址
 https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
 
-https://cdn.jsdelivr.net/gh/differencer/MyCDN@1.0.2/img/logo/upyun.png
+<font color=#000000 > 确切的说@后面应该是每次发布版本时填写的 tag！！！！！！！！ title 反而无所谓，填什么都可以！！！！
+
+https://cdn.jsdelivr.net/gh/differencer/MyCDN@1.0.4/img/logo/upyun.png
 
 https://cdn.jsdelivr.net/gh/differencer/MyCDN/img/logo/upyun.png
 不加 版本号 默认最新版本 
@@ -27,3 +29,4 @@ git commit -m '第一次提交'      //把文件提交到仓库
 git push                      //推送至远程仓库
 ```
 
+PS:发表新版本的时候，t

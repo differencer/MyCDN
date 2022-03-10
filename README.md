@@ -2,7 +2,7 @@
 differencer的素材库
 
 
-
+（支持20M以内的图片、视频、js、css等）
 
 
 原理：将github上的资源转为快速访问网址
@@ -12,3 +12,18 @@ https://cdn.jsdelivr.net/gh/differencer/MyCDN@1.0.2/img/logo/upyun.png
 
 https://cdn.jsdelivr.net/gh/differencer/MyCDN/img/logo/upyun.png
 不加 版本号 默认最新版本 
+
+更新方法
+
+- 1、【第一次或覆盖用】本地 MyCDN 文件夹上一级目录 
+```
+git bash：git clone https://github.com/differencer/MyCDN.git
+```
+- 2、【上传更新文件】
+```
+git status                    //查看状态
+git add .                     //添加所有文件到暂存区
+git commit -m '第一次提交'      //把文件提交到仓库
+git push                      //推送至远程仓库
+```
+

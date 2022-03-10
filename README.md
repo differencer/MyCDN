@@ -8,7 +8,7 @@ differencer的素材库
 原理：将github上的资源转为快速访问网址
 https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
 
-<font color=#FF2323> 确切的说@后面应该是每次发布版本时填写的 tag！！！！！！！！ title 反而无所谓，填什么都可以！！！！
+**确切的说@后面应该是每次发布版本时填写的 tag！！！！！！！！ title 反而无所谓，填什么都可以！！！！**
 
 https://cdn.jsdelivr.net/gh/differencer/MyCDN@1.0.4/img/logo/upyun.png
 
